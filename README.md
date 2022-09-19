@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://abhinav110695.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="abhinav" /></a> </p>
 
-<img style="height: 350px;"  align="right" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"></img>
+<img style="height: 350px;"  align="right" src="https://c.tenor.com/p2eovClgAMoAAAAd/designer-coffee-break.gif"></img>
 
 <p align="left"> <a href="https://drive.google.com/file/d/1ERWXnVNtLEFZ9fPdI6YQYypu4OPy9hgg/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p>
 
