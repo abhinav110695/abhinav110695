@@ -1,5 +1,13 @@
 <h1 align="center">Hi there 👋, I'm ABHINAV </h1>
-<h3 align="center">A Full Stack Web developer from New Delhi, India</h3>
+<h3 align="center">Highly motivated and enthusiastic Full Stack Web developer from New Delhi, India</h3>
+
+<img style="height: 200px; width:100%"  src="https://i.pinimg.com/originals/0b/f4/01/0bf4011a2d74bd3727ab269c509193f1.jpg"></img>
+<h3>Interests  - ♾️ DSA
+- 🖥️ Coding
+- ⚽ Sports
+- 🎶 Music
+- ✈️ Travel</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav110695&label=Visitors&color=0e75b6&style=flat" alt="abhinav110695" /> </p>
 
@@ -13,9 +21,9 @@
 <p align="left"> <a href="abhinav110695@gmail.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> </p>
 
 
-- 🌱 I’m currently learning *JAVA & SQL*
+- 🌱 I’m currently learning *JAVA - SQL*
 
-- 💬 Ask me about *JavaScript*
+- 💬 Ask me about *JavaScript - HTML - CSS*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
